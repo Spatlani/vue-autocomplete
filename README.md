@@ -1,4 +1,4 @@
-# locus
+# Vue Autocomplete
 A simple autocomplete component with support for Async item loading and search on
 all properties of an Array of objects
 
